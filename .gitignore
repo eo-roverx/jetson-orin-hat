@@ -1,0 +1,10 @@
+*.pdf
+*backups/
+*cache*
+*.lck
+*.step
+*.stl
+*sddr*
+3d/
+gerbers/
+*auto_saved*
