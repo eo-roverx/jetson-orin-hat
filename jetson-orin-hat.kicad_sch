@@ -974,7 +974,7 @@
     (property "Reference" "J1" (at 63.5 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x20_Counter_Clockwise" (at 63.5 31.75 0)
+    (property "Value" "Jetson" (at 63.5 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" (at 62.23 58.42 0)
